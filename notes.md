@@ -1,1 +1,1 @@
-Il parle de single quotes vs. double quotes, escaping. j'en sais tout
+variables syntaxe. faut pas se focaliser trop au types de données, ca vient plus tard

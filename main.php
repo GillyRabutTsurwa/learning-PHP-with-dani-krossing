@@ -10,5 +10,8 @@ $saisonActuelle = "Hiver";
 echo $nom;
 echo $nationality;
 
-// constants are a bit different; plus similaire au javascript dans la sens qu'on utilise le mot-clé const. 
+// constants are a bit different; plus similaire au javascript dans la sens qu'on utilise le mot-clé const. evidemment, on peut pas le rassigner.
 const birthDate = "9th May 1996";
+
+// how concatenating works in PHP
+echo $nom . " qu'il est beau";
