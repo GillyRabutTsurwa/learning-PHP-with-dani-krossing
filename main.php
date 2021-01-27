@@ -2,4 +2,8 @@
 <!-- we do not include closing tag, ou bien, ca va rompre la site -->
 
 <?php
-    echo "Yoyoyo";
+echo "Yoyoyo";
+echo 10;
+echo 10.5;
+echo 4 == "4";
+echo 4 === "4";

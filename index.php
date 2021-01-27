@@ -9,20 +9,10 @@
 
 <body>
     <!-- If we're doing PHP in conjunction with our HTML code, we do this. -->
-    <?php
-    echo "Hello World from PHP";
-    ?>
-    <p>PHP en HTML sans escaping</p>
-    <?php
-    if (1 === 1) echo "Ca marche m'ais n'est pas idéal";
-    ?>
-    <p>et avec escaping</p>
-    <?php {
-    ?> <p>C'est mieux, mais je n'aime toujours pas</p> <?php } ?>
+    <h2>Scalar Data Types</h2>
+    <h3>String, Integers, Floats & Booleans</h3>
 
-    <!-- prettier n'aime pas PHP a ce moment -->
-    <!-- j'espere au future on utilise le page pur PHP, sans HTML -->
-    <a href="main.php">Pure PHP Page</a>
+    <a href="main.php">Click to go to PHP Page</a>
 </body>
 
 </html>
