@@ -1,9 +1,14 @@
-<!-- conversely, a document like this will only have PHP (a Pure PHP page) -->
-<!-- we do not include closing tag, ou bien, ca va rompre la site -->
+<!-- variables in PHP. Très similaires à ceux en Javascript, à l'exception de "$" -->
 
 <?php
-echo "Yoyoyo";
-echo 10;
-echo 10.5;
-echo 4 == "4";
-echo 4 === "4";
+$nom = "Gilbert";
+$age = 24;
+$nationality = "Kenyain";
+$saisonActuelle = "Hiver";
+
+// pour acceder la variable, il nous faut aussi la "$". fais attention.
+echo $nom;
+echo $nationality;
+
+// constants are a bit different; plus similaire au javascript dans la sens qu'on utilise le mot-clé const. 
+const birthDate = "9th May 1996";
