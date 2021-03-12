@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
     <title>Document</title>
 </head>
 
@@ -12,7 +13,7 @@
     <h2>Data Types</h2>
     <h3>String, Integers, Floats & Booleans</h3>
 
-    <a href="main.php">Click to go to PHP Page</a>
+    <a href="switch.php">Click to go to PHP Page</a>
 </body>
 
 </html>
