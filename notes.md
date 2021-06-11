@@ -1,1 +1,3 @@
-variables syntaxe. faut pas se focaliser trop au types de données, ca vient plus tard
+## Switch statements
+- learnt about switch statements
+- though simple by theory, i am using them in a rather convoluted way, either way, the basics still apply

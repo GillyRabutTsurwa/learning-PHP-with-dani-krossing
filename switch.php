@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 
 <?php
 // switch statements juss like in javascript, sert a faire plus lisible notre code si on a
 // beaucoup de conditions relatifs l'un vers l'autre
+=======
+<?php
+/**
+ * NOTE:
+ * switch statements juss like in javascript, sert a faire plus lisible notre code si on a
+ * beaucoup de conditions relatifs l'un vers l'autre
+ */
+>>>>>>> 8-switch-statements
 
 echo "<h4>Changer la valeur de x (qui est un chiffre) pour voir les different resultats</h4>";
 $x = 4;
@@ -31,4 +40,8 @@ switch ($x) {
   default:
     echo "J'ai marre de donner les reponses";
     break;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8-switch-statements
